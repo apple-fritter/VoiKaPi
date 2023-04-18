@@ -1,3 +1,43 @@
+# Mission statement
+
+Hello everyone! I am excited to announce a new project focused on microexpression detection using the Raspberry Pi. The goal is to create a device that can accurately detect microexpressions in real-time, without relying on an internet connection. This project has the potential to revolutionize fields such as psychology, criminology, and marketing.
+
+## Appeal for contributions
+To make this project a reality, I need your help! I am currently seeking financial and programming contributions from anyone who is interested in supporting the cause. Your support will help purchase the necessary hardware and software, as well as fund ongoing research and development.
+
+If you are interested in contributing, please click the link in the about section of the repository. Every little bit helps, and I appreciate any support you can give. Thank you!
+
+My goal is to create an affordable and portable microexpression detection device using a Raspberry Pi and a machine learning model. The device will be designed to run offline and will help individuals with social anxiety and autism to improve their social interactions. I aim to provide a user-friendly and customizable solution that is accessible to anyone with basic programming knowledge.
+
+## Hardware:
+- Raspberry Pi 4 Model B (4GB RAM) - $55
+- CanaKit Raspberry Pi 4 Power Supply - $9
+- Samsung 64GB MicroSDXC EVO Select Memory Card - $11
+- Raspberry Pi 4 Case with Fan and Heatsinks - $17
+- Logitech C920x Pro HD Webcam - $70
+- OpenCV AI Kit (OAK-D) - $149
+### GPU Selection
+- EVGA GeForce GT 710 2GB GDDR5 Low Profile Graphics Card - $90
+> Total cost with EVGA GT 710 GPU: **$401**
+- (alternative option: ASUS NVIDIA GT 710 2GB GDDR5 Graphics Card - $70)
+> Total cost with ASUS GT 710 GPU: **$381**
+
+## Note:
+Prices may vary based on location and availability.
+
+# The build
+The build includes the Raspberry Pi 4 Model B, which has 4GB of RAM and is capable of running the necessary software for microexpression detection. The CanaKit Raspberry Pi 4 Power Supply is included to power the Raspberry Pi.
+
+The Samsung 64GB MicroSDXC EVO Select Memory Card is included to store the Raspbian OS and other software packages. The Raspberry Pi 4 Case with Fan and Heatsinks is included to keep the Raspberry Pi cool during operation.
+
+The Logitech C920x Pro HD Webcam is included to capture high-quality video of the subject's face. The OpenCV AI Kit (OAK-D) is included to perform microexpression detection using deep learning algorithms.
+
+For the GPU, we have included the EVGA GeForce GT 710 2GB GDDR5 Low Profile Graphics Card as an option, which provides enough processing power for microexpression detection. An alternative option is the ASUS NVIDIA GT 710 2GB GDDR5 Graphics Card, which is slightly cheaper.
+
+The software includes Raspbian OS, OpenCV, Dlib, and Python 3, which are all free and open-source.
+
+With the above parts, the total cost for the build with the EVGA GT 710 GPU is $401, and the total cost with the ASUS GT 710 GPU is $381.
+
 ## Flowchart:
 
 1. Assemble hardware
