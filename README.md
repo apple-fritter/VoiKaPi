@@ -36,7 +36,7 @@ For the GPU, we have included the EVGA GeForce GT 710 2GB GDDR5 Low Profile Grap
 
 The software includes `Ubuntu Mate` OS, `OpenCV`, `Dlib`, and `Python 3`, which are all free and open-source.
 
-With the above parts, the total cost for the build with the EVGA GT 710 GPU is $401, and the total cost with the ASUS GT 710 GPU is $381.
+With the above parts, the **total cost** for the build with the **EVGA GT 710 GPU is $476**, and the total cost with the **ASUS GT 710 GPU is $471**.
 
 ## Flowchart:
 
