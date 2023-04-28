@@ -30,7 +30,10 @@ Total cost with EVGA GT 710 GPU: $476
 
 Total cost with ASUS GT 710 GPU: $471
 
-> Please note that prices may vary based on location and availability. We are still in the process of selecting an external GPU enclosure and related power supply.
+> Please note that prices may vary based on location and availability.
+
+#### GPU enclosure and related power supply
+We are still in the process of selecting an external GPU enclosure and related power supply. @apple-fritter finds [Jeff Geerling](https://github.com/geerlingguy)'s project [pi4gpu](https://github.com/geerlingguy/pi4gpu) to be very impressive. Please go visit his project and give him support, as well!
 
 ### Build Instructions
 Follow these step-by-step instructions to assemble and configure the microexpression detection device:
